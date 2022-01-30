@@ -1,2 +1,2 @@
-# Repositório do prmeiro desafio do bootcamp GFT Start #3 Java da DIO
-Criando primeiro repositório no GitHub
+# Desafio bootcamp GFT Start #3 Java 
+Primeiro repositório para Desafio de Projetos da Plataforma DIO.
